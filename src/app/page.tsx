@@ -25,7 +25,7 @@ export default function Home() {
               priority
             />
             <div>aaa</div>
-            <div>しゅんぺ～</div>
+            <div>こしゅん♡</div>
           </a>
         </div>
       </div>
